@@ -3,6 +3,7 @@
   "displayName": "Pip Requirements Helper",
   "description": "",
   "version": "0.0.1",
+  "publisher": "amir82amir82",
   "engines": {
     "vscode": "^1.82.0"
   },
