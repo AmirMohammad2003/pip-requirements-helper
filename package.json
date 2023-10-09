@@ -2,7 +2,7 @@
   "name": "pip-requirements-helper",
   "displayName": "Pip Requirements Helper",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "amir82amir82",
   "engines": {
     "vscode": "^1.82.0"

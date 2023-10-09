@@ -8,7 +8,3 @@ for example this is the output for `django`
 ```
 Django>=4.2.6,<4.3.0  # https://github.com/django/django
 ```
-
-### 0.0.1
-Initial release 
-
